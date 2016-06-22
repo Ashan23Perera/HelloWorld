@@ -1,2 +1,3 @@
 # HelloWorld
-Welcome to Git
+
+I like to learn java and other object oriented languages
